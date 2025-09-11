@@ -1,4 +1,4 @@
-# Spotify Data Analytics Project 🎵
+#  🎵 Spotify Data Analytics Project 
 This project analyzes **Spotify listening patterns** using albums, artists, and track-level insights.   Built as part of a data visualization project using Power BI.
 
 ## 🎯 Skills Demonstrated
@@ -46,12 +46,14 @@ This project analyzes **Spotify listening patterns** using albums, artists, and 
 - A few niche tracks had **low frequency but high listening time**, indicating strong fan dedication.  
 - Top 5 Artists contributed disproportionately to overall listening volume.  
 
-## PROJECT VISUALS
-**Executive Summary Dashboard**  
+## 🖼️ PROJECT VISUALS
+## 📌  **Executive Summary Dashboard**  
 <img width="1782" height="1178" alt="image" src="https://github.com/user-attachments/assets/6dc30750-df25-45e3-8e1a-7cca1f547d56" />
-**Listening Pattern Dashboard** 
+
+## 📌 **Listening Pattern Dashboard** 
 <img width="1782" height="1178" alt="image" src="https://github.com/user-attachments/assets/18eed104-0495-4879-b79e-a819eade9c8a" />
-##  Insight Report 
+
+## 🚀 Insight Report 
 📥 [Download Full Insights Report] [spotify_final_insights_report_.pdf](https://github.com/user-attachments/files/22250728/spotify_final_insights_report_.pdf)
 
 
